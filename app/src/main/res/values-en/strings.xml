@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeuPrimeiroAppDIO</string>
+    <string name="hello_dio">Hello World Dio</string>
+    <string name="description">This is my first app</string>
+    <string name="task">(This application aims to fulfill a DIO design challenge. It was created to be adaptable with translations to pt-BR, en-US and es-ES)</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">MeuPrimeiroAppDIO</string>
+    <string name="hello_dio">Olá Mundo Dio</string>
+    <string name="description">Esse é o meu primeiro aplicativo</string>
+    <string name="task">(Esse aplicativo tem o objetivo de cumprir um desafio de projeto da DIO.
+        O mesmo foi criado para ser adptável com traduções para a lingua pt-BR, en-US e es-ES)</string>
+</resources>
