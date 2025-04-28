@@ -1,12 +1,13 @@
 # Meu Primeiro App DIO
 
-![Banner](./images/MeuPrimeiroAppDIO.png)
-
-Aplicativo Android desenvolvido utilizando **Kotlin** e **View System tradicional** (XML).
+<p align="center">
+  <img src="./images/MeuPrimeiroAppDIO.png" alt="Banner do App" width="400"/>
+</p>
 
 ---
 
 ## 📱 Sobre o projeto
+Aplicativo Android desenvolvido utilizando **Kotlin** e **View System tradicional** (XML).
 Aplicação Android simples que exibe um texto centralizado utilizando Views tradicionais.
 
 ---
