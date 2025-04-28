@@ -39,8 +39,8 @@ Abra o Android Studio → Importe o projeto → Rode no dispositivo físico ou e
 
 ## 📸 Screenshots
 
-| Tela Inicial | Tela em Inglês | Tela em Espanhol |
-|:------------:|:--------------:|:--------------:|
+| Tela Inicial | Tela em Inglês |
+|:------------:|:--------------:|
 | ![Tela Inicial](./images/Screenshot_20250427_211316.png) | ![Tela Inglês](./images/Screenshot_20250427_211738.png) |
 
 ---
